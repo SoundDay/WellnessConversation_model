@@ -14,10 +14,10 @@
  7. Android 단말기에서 텍스트 파일 가져가서 화면에 출력
  
 ## 2. Package
-kobert-transformers==0.4.1
-kogpt2-transformers==0.3.0
-torch
-transformers==3.0.2
+kobert-transformers==0.4.1  
+kogpt2-transformers==0.3.0  
+torch  
+transformers==3.0.2  
 
 ## 3. How to run
  1. 'data' 폴더에 데이터 준비
@@ -27,13 +27,13 @@ transformers==3.0.2
  5. Android 부분은 옆 repository에서 확인
  
 ## 4. Result
- Input : 앞으로 내가 뭘 해야 될지 모르겠고 너무 우울해
- Output : 우울할 떄는 칭찬타임! 오늘의 잘한 일을 말해봐요
- 
- Input : 남자 친구랑 헤어졌어 근데 이게 너무 아프다
- Output : 언젠가는 이별이 찾아오기 마련이죠
+ Input : 앞으로 내가 뭘 해야 될지 모르겠고 너무 우울해  
+ Output : 우울할 떄는 칭찬타임! 오늘의 잘한 일을 말해봐요  
+   
+ Input : 남자 친구랑 헤어졌어 근데 이게 너무 아프다  
+ Output : 언젠가는 이별이 찾아오기 마련이죠  
  
 ## Reference
-[WellnessConversation](https://github.com/nawnoes/WellnessConversation-LanguageModel)
-[train 방법 알려주는 블로그](https://rogerheederer.github.io/ChatBot_Wellness/)
-[chatbot data](https://github.com/songys/Chatbot_data)
+[WellnessConversation](https://github.com/nawnoes/WellnessConversation-LanguageModel)  
+[train 방법 알려주는 블로그](https://rogerheederer.github.io/ChatBot_Wellness/)  
+[chatbot data](https://github.com/songys/Chatbot_data)  
